@@ -1,0 +1,11 @@
+  ExpressionStatement
+    MultiplicativeExpression *
+      ParenthesizedExpression (
+        AdditiveExpression +
+          Literal 
+            NumericLiteral 1
+          Literal 
+            NumericLiteral 2
+      )
+      Literal 
+        NumericLiteral 3
