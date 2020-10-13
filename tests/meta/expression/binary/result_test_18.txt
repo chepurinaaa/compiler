@@ -1,0 +1,6 @@
+  ExpressionStatement
+    BitOrExpression |
+      Identifier x
+      BitAndExpression &
+        Identifier y
+        Identifier z

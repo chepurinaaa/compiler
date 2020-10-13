@@ -1,0 +1,6 @@
+  ExpressionStatement
+    BitShiftExpression <<
+      BitShiftExpression <<
+        Identifier x
+        Identifier y
+      Identifier z
