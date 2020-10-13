@@ -1,0 +1,4 @@
+  VariableDeclarationList
+    var
+    Identifier source
+    Literal 'var x = /\\u{110000}/u'

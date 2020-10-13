@@ -1,0 +1,2 @@
+  ExpressionStatement
+    Literal "\n\r\t\v\b\f\\\'\"\0"

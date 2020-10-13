@@ -1,0 +1,4 @@
+  VariableDeclarationList
+    var
+    Identifier x
+    Literal /[P QR]/i

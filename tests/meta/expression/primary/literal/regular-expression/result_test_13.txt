@@ -1,0 +1,6 @@
+  VariableDeclarationList
+    var
+    Identifier x
+    Arguments .
+      Literal /42/g
+      Identifier test
