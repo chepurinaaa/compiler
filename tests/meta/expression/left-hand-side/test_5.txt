@@ -1,0 +1,8 @@
+  ExpressionStatement
+    Arguments .
+      Arguments .
+        Arguments .
+          Identifier universe
+          Identifier milkyway
+        Identifier solarsystem
+      Identifier Earth

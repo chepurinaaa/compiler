@@ -1,0 +1,18 @@
+  ExpressionStatement
+    Arguments .
+      Arguments .
+        Identifier universe
+        Arguments (
+          Literal 
+            NumericLiteral 42
+        )
+        Identifier galaxies
+      Arguments (
+        Literal 
+          NumericLiteral 14
+        Literal 
+          NumericLiteral 3
+        Literal 
+          NumericLiteral 77
+      )
+      Identifier milkyway

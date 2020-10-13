@@ -1,0 +1,6 @@
+  ExpressionStatement
+    ParenthesizedExpression (
+      Identifier foo
+    )
+    Arguments (
+    )

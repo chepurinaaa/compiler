@@ -1,0 +1,8 @@
+  ExpressionStatement
+    Arguments .
+      [
+        Identifier universe
+        Literal 
+          NumericLiteral 42
+             ]
+      Identifier galaxies

@@ -1,0 +1,12 @@
+  ExpressionStatement
+    Arguments .
+      Arguments .
+        Arguments .
+          Identifier earth
+          Identifier asia
+        Identifier Indonesia
+      Identifier prepareForElection
+    Arguments (
+      Literal 
+        NumericLiteral 2014
+    )

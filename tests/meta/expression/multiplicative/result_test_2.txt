@@ -1,0 +1,4 @@
+  ExpressionStatement
+    MultiplicativeExpression /
+      Identifier x
+      Identifier y

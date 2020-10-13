@@ -1,0 +1,6 @@
+  ExpressionStatement
+    Identifier foo
+    Arguments (
+      Identifier bar
+      Identifier baz
+    )

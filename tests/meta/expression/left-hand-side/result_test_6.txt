@@ -1,0 +1,6 @@
+  ExpressionStatement
+    [
+      Identifier universe
+      Identifier galaxyName
+      Identifier otherUselessName
+         ]
