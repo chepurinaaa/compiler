@@ -81,7 +81,6 @@ antlrcpp::Any Visitor::visitIfStatement(JavaScriptParser::IfStatementContext *ct
     if (ctx->expressionSequence()) {
         visitExpressionSequence(ctx->expressionSequence());
     }
-    ////////////////////////please, check me!!!
     for (int i = 0; i < ctx->statement().size(); i++) {
         visitStatement(ctx->statement(i));
     }
