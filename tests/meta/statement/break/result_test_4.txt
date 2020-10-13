@@ -1,0 +1,8 @@
+  Identifier __proto__
+  WhileStatement while (
+    Literal true
+    {
+      BreakStatement break
+        Identifier __proto__
+    {
+  )

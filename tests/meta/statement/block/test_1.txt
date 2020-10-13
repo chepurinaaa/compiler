@@ -1,0 +1,4 @@
+  {
+    ExpressionStatement
+      Identifier foo
+  {

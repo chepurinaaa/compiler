@@ -1,0 +1,10 @@
+  IfStatement if (
+    Identifier morning
+    ExpressionStatement
+      ParenthesizedExpression (
+        AnoymousFunctionDecl ( function
+          FunctionBody 
+          
+        )
+      )
+  )

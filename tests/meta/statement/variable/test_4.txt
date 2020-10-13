@@ -1,0 +1,8 @@
+  VariableDeclarationList
+    var
+    Identifier eval
+    Literal 
+      NumericLiteral 42
+    Identifier arguments
+    Literal 
+      NumericLiteral 42

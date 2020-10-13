@@ -1,0 +1,6 @@
+  VariableDeclarationList
+    var
+    Identifier private
+    Identifier protected
+    Identifier public
+    Identifier static

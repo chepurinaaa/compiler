@@ -1,0 +1,6 @@
+  Identifier start
+  WhileStatement while (
+    Literal true
+    BreakStatement break
+      Identifier start
+  )

@@ -1,0 +1,5 @@
+  VariableDeclarationList
+    var
+    Identifier implements
+    Identifier interface
+    Identifier package

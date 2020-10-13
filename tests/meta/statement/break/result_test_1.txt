@@ -1,0 +1,6 @@
+  WhileStatement while (
+    Literal true
+    {
+      BreakStatement break
+    {
+  )

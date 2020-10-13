@@ -1,0 +1,8 @@
+  IfStatement if (
+    Literal true
+    ExpressionStatement
+      Identifier that
+      Arguments (
+      )
+    EmptyStatement
+  )

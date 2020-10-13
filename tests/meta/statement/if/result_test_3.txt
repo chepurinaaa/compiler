@@ -1,0 +1,8 @@
+  IfStatement if (
+    Identifier morning
+    VariableDeclarationList
+      var
+      Identifier x
+      Literal 
+        NumericLiteral 0
+  )
