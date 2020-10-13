@@ -1,0 +1,5 @@
+  ExpressionStatement
+    Identifier tokenize
+    Arguments (
+      Literal /42/
+    )
