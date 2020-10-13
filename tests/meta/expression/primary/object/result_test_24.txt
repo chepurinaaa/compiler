@@ -1,0 +1,20 @@
+  ExpressionStatement
+    AssigmentExpression =
+      Identifier x
+      ObjectLiteralExpression
+        PropertySetter (
+          Setter 
+            Identifier set
+            PropertyName
+              NumericLiteral 10
+          FormalParameterArg 
+                      Identifier w
+
+          FunctionBody 
+            ExpressionStatement
+              AssigmentExpression =
+                Identifier m_null
+                Identifier w
+          
+        )
+      

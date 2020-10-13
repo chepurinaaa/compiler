@@ -1,0 +1,20 @@
+  ExpressionStatement
+    AssigmentExpression =
+      Identifier x
+      ObjectLiteralExpression
+        PropertySetter (
+          Setter 
+            Identifier set
+            PropertyName
+              Identifier width
+          FormalParameterArg 
+                      Identifier w
+
+          FunctionBody 
+            ExpressionStatement
+              AssigmentExpression =
+                Identifier m_width
+                Identifier w
+          
+        )
+      

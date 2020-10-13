@@ -1,0 +1,11 @@
+  ExpressionStatement
+    AssigmentExpression =
+      Identifier x
+      ObjectLiteralExpression
+        PropertyExpressionAssignment 
+          PropertyName
+            ReservedWord 
+              Keyword if
+          Literal 
+            NumericLiteral 42
+      

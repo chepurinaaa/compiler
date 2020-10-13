@@ -1,0 +1,11 @@
+  ExpressionStatement
+    AssigmentExpression =
+      Identifier x
+      ObjectLiteralExpression
+        Getter 
+          Identifier get
+          PropertyName
+"undef"
+        FunctionBody 
+        
+      

@@ -1,0 +1,13 @@
+  ExpressionStatement
+    AssigmentExpression =
+      Identifier x
+      ObjectLiteralExpression
+        Getter 
+          Identifier get
+          PropertyName
+            Identifier width
+        FunctionBody 
+          ReturnStatement return
+            Identifier m_width
+        
+      

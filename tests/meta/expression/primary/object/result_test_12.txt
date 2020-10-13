@@ -1,0 +1,12 @@
+  ExpressionStatement
+    AssigmentExpression =
+      Identifier x
+      ObjectLiteralExpression
+        Getter 
+          Identifier get
+          PropertyName
+            ReservedWord 
+              Keyword if
+        FunctionBody 
+        
+      

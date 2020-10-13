@@ -1,0 +1,16 @@
+  ExpressionStatement
+    ParenthesizedExpression (
+      ObjectLiteralExpression
+        Getter 
+          Identifier get
+          PropertyName
+            Identifier i
+        FunctionBody 
+        
+        PropertyExpressionAssignment 
+          PropertyName
+            Identifier i
+          Literal 
+            NumericLiteral 42
+      
+    )

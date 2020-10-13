@@ -1,0 +1,21 @@
+  ExpressionStatement
+    AssigmentExpression =
+      Identifier x
+      ObjectLiteralExpression
+        PropertySetter (
+          Setter 
+            Identifier set
+            PropertyName
+              ReservedWord 
+                Keyword if
+          FormalParameterArg 
+                      Identifier w
+
+          FunctionBody 
+            ExpressionStatement
+              AssigmentExpression =
+                Identifier m_if
+                Identifier w
+          
+        )
+      
