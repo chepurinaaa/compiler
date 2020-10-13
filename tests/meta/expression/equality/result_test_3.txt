@@ -1,0 +1,4 @@
+  ExpressionStatement
+    EqualityExpression ===
+      Identifier x
+      Identifier y

@@ -1,0 +1,13 @@
+  ExpressionStatement
+    AdditiveExpression +
+      AdditiveExpression +
+        ParenthesizedExpression (
+          Literal 
+            NumericLiteral 1
+        )
+        ParenthesizedExpression (
+          Literal 
+            NumericLiteral 2
+        )
+      Literal 
+        NumericLiteral 3

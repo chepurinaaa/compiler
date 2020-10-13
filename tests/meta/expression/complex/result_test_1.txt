@@ -1,0 +1,22 @@
+  ExpressionStatement
+    BitLogicalOrExpression ||
+      Identifier a
+      BitLogicalAndExpression &&
+        Identifier b
+        BitOrExpression |
+          Identifier c
+          BitXOrExpression ^
+            Identifier d
+            BitAndExpression &
+              Identifier e
+              EqualityExpression ==
+                Identifier f
+                RelationalExpression <
+                  Identifier g
+                  BitShiftExpression >>>
+                    Identifier h
+                    AdditiveExpression +
+                      Identifier i
+                      MultiplicativeExpression *
+                        Identifier j
+                        Identifier k

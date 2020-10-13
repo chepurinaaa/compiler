@@ -1,0 +1,11 @@
+  ExpressionStatement
+    BitShiftExpression <<
+      AdditiveExpression +
+        Literal 
+          NumericLiteral 4
+        Literal 
+          NumericLiteral 5
+      ParenthesizedExpression (
+        Literal 
+          NumericLiteral 6
+      )

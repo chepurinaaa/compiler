@@ -1,0 +1,14 @@
+  ExpressionStatement
+    AdditiveExpression +
+      AdditiveExpression +
+        Identifier a
+        ParenthesizedExpression (
+          RelationalExpression <
+            Identifier b
+            ParenthesizedExpression (
+              MultiplicativeExpression *
+                Identifier c
+                Identifier d
+            )
+        )
+      Identifier e
