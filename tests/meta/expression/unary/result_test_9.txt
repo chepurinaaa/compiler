@@ -1,0 +1,3 @@
+  ExpressionStatement
+    BitNotExpression ~
+      Identifier x
