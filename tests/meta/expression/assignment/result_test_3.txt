@@ -1,0 +1,5 @@
+  ExpressionStatement
+    AssigmentExpression =
+      Identifier arguments
+      Literal 
+        NumericLiteral 42

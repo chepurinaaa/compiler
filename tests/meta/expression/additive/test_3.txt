@@ -1,0 +1,5 @@
+  ExpressionStatement
+    AdditiveExpression +
+      Literal "use strict"
+      Literal 
+        NumericLiteral 42
