@@ -1,0 +1,4 @@
+  VariableDeclarationList
+    var
+    Identifier source
+    Literal 'T\u203F = []'

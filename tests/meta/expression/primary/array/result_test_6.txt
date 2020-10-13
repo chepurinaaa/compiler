@@ -1,0 +1,10 @@
+  ExpressionStatement
+    AssigmentExpression =
+      Identifier x
+      ElementList 
+        Literal 
+          NumericLiteral 1
+        Literal 
+          NumericLiteral 2
+        Literal 
+          NumericLiteral 3

@@ -1,0 +1,4 @@
+  VariableDeclarationList
+    var
+    Identifier source
+    Literal '\u2163\u2161\u200A=\u2009[]'

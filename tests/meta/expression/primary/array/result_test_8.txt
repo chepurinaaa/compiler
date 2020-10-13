@@ -1,0 +1,5 @@
+  ExpressionStatement
+    AssigmentExpression =
+      Identifier 日本語
+      ElementList 
+        null
