@@ -1,0 +1,9 @@
+  FunctionDeclaration function
+    Identifier test
+    FunctionBody 
+      ExpressionStatement
+        AdditiveExpression +
+          Literal "use strict"
+          Literal 
+            NumericLiteral 42
+    

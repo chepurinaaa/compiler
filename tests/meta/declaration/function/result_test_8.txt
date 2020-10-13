@@ -1,0 +1,14 @@
+  FunctionDeclaration function
+    Identifier hello
+    FormalParameterArg 
+          Identifier a
+
+    FormalParameterArg 
+          Identifier b
+
+    FunctionBody 
+      ExpressionStatement
+        Identifier sayHi
+        Arguments (
+        )
+    

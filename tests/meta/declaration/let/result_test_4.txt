@@ -1,0 +1,13 @@
+  {
+    VariableDeclarationList
+      let is not implemented
+      Identifier x
+      Literal 
+        NumericLiteral 14
+      Identifier y
+      Literal 
+        NumericLiteral 3
+      Identifier z
+      Literal 
+        NumericLiteral 1977
+  {

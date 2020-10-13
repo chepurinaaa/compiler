@@ -1,0 +1,7 @@
+  ExpressionStatement
+    ParenthesizedExpression (
+      AnoymousFunctionDecl ( function
+        FunctionBody 
+        
+      )
+    )

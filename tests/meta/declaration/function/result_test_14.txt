@@ -1,0 +1,7 @@
+  FunctionDeclaration function
+    Identifier universe
+    FormalParameterArg 
+          Identifier __proto__
+
+    FunctionBody 
+    

@@ -1,0 +1,7 @@
+  {
+    VariableDeclarationList
+      const
+      Identifier x
+      Literal 
+        NumericLiteral 42
+  {

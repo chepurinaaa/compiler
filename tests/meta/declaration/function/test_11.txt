@@ -1,0 +1,7 @@
+  VariableDeclarationList
+    var
+    Identifier hi
+    FunctionDeclaration function
+      Identifier arguments
+      FunctionBody 
+      

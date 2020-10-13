@@ -1,0 +1,11 @@
+  VariableDeclarationList
+    var
+    Identifier hi
+    AnoymousFunctionDecl ( function
+      FunctionBody 
+        ExpressionStatement
+          Identifier sayHi
+          Arguments (
+          )
+      
+    )

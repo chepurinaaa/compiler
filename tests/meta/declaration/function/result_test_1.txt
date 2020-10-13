@@ -1,0 +1,8 @@
+  FunctionDeclaration function
+    Identifier hello
+    FunctionBody 
+      ExpressionStatement
+        Identifier sayHi
+        Arguments (
+        )
+    

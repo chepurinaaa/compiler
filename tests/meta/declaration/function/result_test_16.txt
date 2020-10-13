@@ -1,0 +1,7 @@
+  ExpressionStatement
+    Literal "use strict"
+  Identifier a
+  FunctionDeclaration function
+    Identifier f
+    FunctionBody 
+    

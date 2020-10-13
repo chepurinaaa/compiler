@@ -1,0 +1,10 @@
+  FunctionDeclaration function
+    Identifier eval
+    FunctionBody 
+      FunctionDeclaration function
+        Identifier inner
+        FunctionBody 
+          ExpressionStatement
+            Literal "use strict"
+        
+    

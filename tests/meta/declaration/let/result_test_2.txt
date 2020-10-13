@@ -1,0 +1,5 @@
+  {
+    VariableDeclarationList
+      let is not implemented
+      Identifier x
+  {

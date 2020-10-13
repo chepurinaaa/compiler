@@ -1,0 +1,11 @@
+  VariableDeclarationList
+    var
+    Identifier hello
+    FunctionDeclaration function
+      Identifier hi
+      FunctionBody 
+        ExpressionStatement
+          Identifier sayHi
+          Arguments (
+          )
+      
